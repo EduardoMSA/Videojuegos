@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{180080D4-8476-A413-871F-1B15999AB241}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pathfinding.cs">
+    <Files>
+      <File FileName="Assets/Nodo.cs" Line="8" Column="33" />
+      <File FileName="Assets/Character.cs" Line="5" Column="35" />
+      <File FileName="Assets/Pathfinding.cs" Line="28" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
